@@ -82,8 +82,4 @@ _Intermediate (FSc Pre-Engineering) (2019 – 2021)_
 
 ---
 
-> “Strive not to be a success, but rather to be of value.” – Albert Einstein
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmanfarooq317&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+>
