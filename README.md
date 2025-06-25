@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Backend Developer** from **Rawalpindi, Pakistan**, currently pursuing a **Bachelor’s in Computer Science** from **NUML**. I love designing and building robust, scalable, and clean backend systems that solve real-world problems.
+I'm a passionate **Backend Developer** with a **Bachelor’s degree in Computer Science** from **NUML**. I love designing and building robust, scalable, and clean backend systems that solve real-world problems.
 
 - 🧠 Always eager to learn and grow in the world of software development
 - 🔁 Strong understanding of API architecture, authentication, and database management
@@ -67,7 +67,7 @@ Frontend & backend integration for an online ordering system.
 ## 🎓 Education
 
 **🎓 National University of Modern Languages (NUML)**  
-_Bachelor's in Computer Science (2021 – Present)_
+_Bachelor's in Computer Science (2021 – 2025)_
 
 **📘 FG Quaid-e-Azam Degree College**  
 _Intermediate (FSc Pre-Engineering) (2019 – 2021)_
