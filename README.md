@@ -77,7 +77,7 @@ _Intermediate (FSc Pre-Engineering) (2019 – 2021)_
 ## 📫 Get in Touch
 
 - 📩 Email: [usmanfarooq317@gmail.com](mailto:usmanfarooq317@gmail.com)
-- 🔗 LinkedIn: [Usman Farooq](https://linkedin.com/in/usman-farooq-937238275)
+- 🔗 LinkedIn: [Usman Farooq](https://linkedin.com/in/usman-farooq-317)
 - 💻 GitHub: [github.com/usmanfarooq317](https://github.com/usmanfarooq317)
 
 ---
