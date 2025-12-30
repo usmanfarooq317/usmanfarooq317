@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Backend Developer** with a **Bachelor’s degree in Computer Science** from **NUML**. I enjoy building scalable, efficient, and clean backend systems that solve real-world problems.  
+I am a passionate **Backend Developer** with a **Bachelor’s degree in Computer Science**. I enjoy building scalable, efficient, and clean backend systems that solve real-world problems.  
 
 - 🧠 Always eager to learn and grow in software development  
 - 🔁 Strong understanding of API architecture, authentication, and database management  
