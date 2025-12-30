@@ -31,7 +31,6 @@ I am a passionate **Backend Developer** with a **Bachelor’s degree in Computer
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 
@@ -53,6 +52,10 @@ I am a passionate **Backend Developer** with a **Bachelor’s degree in Computer
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana)
+![Fluent-Bit](https://img.shields.io/badge/Fluent--Bit-007ACC?style=for-the-badge)
+
 
 ---
 
@@ -75,7 +78,7 @@ I am a passionate **Backend Developer** with a **Bachelor’s degree in Computer
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science** — National University of Modern Languages (NUML)  
-*2021 – 2025 | Rawalpindi, Pakistan*  
+*2021 – 2025*  
 Core subjects: Web Programming, OS, Mobile App Development, Computer Graphics, Python, Advanced OOP, Networks, Database Systems, Project Management
 
 ---
@@ -115,13 +118,6 @@ Frontend & backend integration for online food ordering.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanfarooq317&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![GitHub streak](https://nirzak-streak-stats.vercel.app/?user=usmanfarooq317&theme=dark&hide_border=false)  
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanfarooq317&theme=dark&hide_border=false&include_all_commits=false&layout=compact)
-
----
 
 ## 📫 Contact Me
 
