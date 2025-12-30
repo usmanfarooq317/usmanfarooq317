@@ -124,6 +124,6 @@ Frontend & backend integration for online food ordering.
 - Email: [usmanfarooq317@gmail.com](mailto:usmanfarooq317@gmail.com)  
 - LinkedIn: [Usman Farooq](https://linkedin.com/in/usmanfarooq317)  
 - GitHub: [github.com/usmanfarooq317](https://github.com/usmanfarooq317)  
-- Portfolio: [usmanfarooq-portfolio.netlify.app](https://usmanfarooq-portfolio.netlify.app/)
+- Portfolio: [usmanfarooq-portfolio.vercel.app](https://usmanfarooq-portfolio.vercel.app/)
 
 ---
