@@ -6,7 +6,7 @@
   <a href="mailto:usmanfarooq317@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/usmanfarooq317"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/usmanfarooq317"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://usmanfarooq-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://usman-portfolio-liard.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -124,6 +124,6 @@ Frontend & backend integration for online food ordering.
 - Email: [usmanfarooq317@gmail.com](mailto:usmanfarooq317@gmail.com)  
 - LinkedIn: [Usman Farooq](https://linkedin.com/in/usmanfarooq317)  
 - GitHub: [github.com/usmanfarooq317](https://github.com/usmanfarooq317)  
-- Portfolio: [usmanfarooq-portfolio.vercel.app](https://usmanfarooq-portfolio.vercel.app/)
+- Portfolio: [usmanfarooq-portfolio.vercel.app](https://usman-portfolio-liard.vercel.app/)
 
 ---
